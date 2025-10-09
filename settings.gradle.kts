@@ -25,5 +25,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MuCuteClient"
+rootProject.name = "MokuClient"
 include(":app")
